@@ -18,7 +18,7 @@
     
   </dependencies>
    <build>
-    <finalName>samplesonar</finalName>
+    <finalName>connect</finalName>
      <plugins>
   <plugin>
     <groupId>org.apache.maven.plugins</groupId>
